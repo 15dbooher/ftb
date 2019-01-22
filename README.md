@@ -1,0 +1,1 @@
+This is a python script that converts a fraction or non-fraction decimal number (base 10) to the equivalent binary number (base 2)
