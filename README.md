@@ -13,11 +13,9 @@ If you'd like to add this feature, please feel free to do so
 `python ftb.py <fraction> <number of decimals>`
 
 > `fraction` is the base-10 number that you would like to conver to binary (Note: if it's a fraction it must be in **decimal** form!)
-
 > `number of decimals` is the number of decimals (degree of accuracy) placed after the whole number part of the output binary number
 
 # Example
 
 > Input: `python ftb.py 123.456 3`
-
 > Output: `1111011.011`
