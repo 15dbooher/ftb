@@ -29,7 +29,7 @@ def wtb(num):
 #converts a fraction to binary
 def ftb(num, n):
     out = ''
-    for x in range(0, n):
+    for _ in range(0, n):
         num *= 2
         string = str(num)
         out = out + string[:1]
